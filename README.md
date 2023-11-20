@@ -10,3 +10,9 @@ To use this package, add `otp_input` as a dependency in your `pubspec.yaml` file
 dependencies:
   otp_input: ^1.0.0
 ```
+
+## Then run
+
+```
+flutter pub get
+```
