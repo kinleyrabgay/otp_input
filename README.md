@@ -16,3 +16,34 @@ dependencies:
 ```
 flutter pub get
 ```
+
+## Usage
+
+Import the package in your Dart file:
+
+```
+import 'package:otp_input/otp_input.dart';
+```
+
+Add the OtpInputField widget to your widget tree:
+
+```
+OtpInputField(
+  otpInputFieldCount: 4,
+  width: 0.2,
+  onOtpEntered: (otp) {
+    print('Entered OTP: $otp');
+    // Perform actions with the entered OTP
+  },
+)
+```
+
+## Properties
+
+- otpInputFieldCount: The number of OTP input fields.
+- width: The width factor of each input field, a value between 0.0 and 1.0.
+- onOtpEntered: Callback function triggered when all OTP fields are filled.
+
+## Issues and Contributions
+
+Feel free to open issues or contribute to this package on GitHub.
