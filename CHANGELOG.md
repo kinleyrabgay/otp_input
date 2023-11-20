@@ -1,3 +1,9 @@
-## 0.0.2
+# Changelog
 
-- A simple flutter otp enter box
+## [1.0.0] - 2023-11-20
+
+### Added
+
+- Initial release of the `OtpInputField` package.
+- Feature: Customizable OTP input field.
+- Example: Included an example demonstrating usage.

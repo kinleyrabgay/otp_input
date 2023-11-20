@@ -1,6 +1,6 @@
 name: otp_input
 description: 'Otp Input'
-version: 0.0.2
+version: 1.0.0
 homepage: https://github.com/kinleyrabgay/otp_input
 
 environment:
