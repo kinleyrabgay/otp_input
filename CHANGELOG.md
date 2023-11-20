@@ -1,5 +1,3 @@
-# 1.0.1 [2023-11-20]
-
 ### Added
 
 - Initial release of the `OtpInputField` package.
