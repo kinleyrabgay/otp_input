@@ -1,11 +1,11 @@
 name: otp_input
-description: 'Otp Input'
-version: 1.0.3
+description: 'A Flutter package that provides customizable OTP (One-Time Password) input fields. Supports multiple field styles (box, underline, dash), flexible spacing, text styling, and validation to easily integrate OTP verification into your apps.'
+version: 1.0.4
 homepage: https://github.com/kinleyrabgay/otp_input
 
 environment:
-  sdk: '>=3.2.0 <4.0.0'
-  flutter: '>=1.17.0'
+  sdk: ^3.8.1
+  flutter: ">=1.17.0"
 
 dependencies:
   flutter:
